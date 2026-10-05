@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@400&display=swap');
+
+#fw-container {
+    font-family: 'Radio Canada', sans-serif !important;
+}
+
+.fw-feed-item-title {
+    font-family: 'Radio Canada', sans-serif !important;
+}
+
+.fw-feed-item-description {
+    font-family: 'Radio Canada', sans-serif !important;
+}
+
+.fw-feed-item-date {
+    font-family: 'Radio Canada', sans-serif !important;
+}
