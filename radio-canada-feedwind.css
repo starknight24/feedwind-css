@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:ital,wght@0,300..700;1,300..700&display=swap');
+
+/* Main FeedWind container */
+#fw-container {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/* Main feed title */
+.fw-feed-title,
+.fw-feed-title a {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/* News article titles */
+.fw-feed-item-title,
+.fw-feed-item-title a {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/* News article descriptions */
+.fw-feed-item-description {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/* Dates */
+.fw-feed-item-date {
+    font-family: 'Radio Canada', sans-serif;
+}
